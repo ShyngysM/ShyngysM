@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some coding projekts and have fun
 - 📫 How to reach me: tschingis.muratbek@gmail.com
 
-![some discription](Empfehlungsschreiben_Shyngys_Muratbek_Praktikum_page-0001.jpg) 
+
 
 <!---
 ShyngysM/ShyngysM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
