@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shyngys
 - 👀 I’m interested in coding and developing of circuits
 - 🌱 I’m currently studying in Germany electrical engineering. 
-- 💞️ I’m looking to collaborate on some coding projekts and have fun
+- 💞️ I’m looking to collaborate on some coding projekts and have fun.
 - 📫 How to reach me: tschingis.muratbek@gmail.com
 
 
